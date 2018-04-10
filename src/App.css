@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 40s alternate-reverse;
+  height: 150px;
+  color: blue;
+}
+
+.App-header {
+  background-color: pink;
+  height: 150px;
+  padding: 120px;
+  color: purple;
+}
+
+.App-title {
+  font-size: 2em;
+}
+
+.App-intro {
+  font-size: smaller;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(3600deg); }
+  to { transform: rotate(0deg); }
+}
